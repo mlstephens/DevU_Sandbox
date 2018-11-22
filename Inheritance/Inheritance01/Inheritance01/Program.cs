@@ -38,10 +38,6 @@ namespace Inheritance01
             DoDrive(truck);
 
             Console.ReadLine();
-
-            //git test line
-            Console.WriteLine();
-
         }
 
         private static void DoDrive(Automobile auto)

@@ -5,3 +5,10 @@ C:\Data\Vault_WIP\My_WIP\DevU SandBox\Inheritance01\Inheritance01\obj\Debug\Inhe
 C:\Data\Vault_WIP\My_WIP\DevU SandBox\Inheritance01\Inheritance01\obj\Debug\Inheritance01.csproj.CoreCompileInputs.cache
 C:\Data\Vault_WIP\My_WIP\DevU SandBox\Inheritance01\Inheritance01\obj\Debug\Inheritance01.exe
 C:\Data\Vault_WIP\My_WIP\DevU SandBox\Inheritance01\Inheritance01\obj\Debug\Inheritance01.pdb
+C:\Data\Visual Studio Work\DevU SandBox\Inheritance\Inheritance01\Inheritance01\bin\Debug\Inheritance01.exe.config
+C:\Data\Visual Studio Work\DevU SandBox\Inheritance\Inheritance01\Inheritance01\bin\Debug\Inheritance01.exe
+C:\Data\Visual Studio Work\DevU SandBox\Inheritance\Inheritance01\Inheritance01\bin\Debug\Inheritance01.pdb
+C:\Data\Visual Studio Work\DevU SandBox\Inheritance\Inheritance01\Inheritance01\obj\Debug\Inheritance01.csprojAssemblyReference.cache
+C:\Data\Visual Studio Work\DevU SandBox\Inheritance\Inheritance01\Inheritance01\obj\Debug\Inheritance01.csproj.CoreCompileInputs.cache
+C:\Data\Visual Studio Work\DevU SandBox\Inheritance\Inheritance01\Inheritance01\obj\Debug\Inheritance01.exe
+C:\Data\Visual Studio Work\DevU SandBox\Inheritance\Inheritance01\Inheritance01\obj\Debug\Inheritance01.pdb
